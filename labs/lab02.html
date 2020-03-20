@@ -469,7 +469,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>To deploy this pipeline to the concourse server use the fly command to set a pipeline.  In the command below replace &lt;LASTNAME&gt; with your lastname.  This will give your pipeline a unique name so as to not collide with the pipelines of others:</p>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">$ fly -t ci set-pipeline -p pipeline-&lt;LASTNAME&gt; -c pipeline.yml
+<pre class="highlight"><code class="language-bash" data-lang="bash">$ fly -t ci-demo set-pipeline -p pipeline-&lt;LASTNAME&gt; -c pipeline.yml
 
 jobs:
   job hello has been added:

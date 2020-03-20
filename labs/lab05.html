@@ -453,7 +453,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>SSH into one of your build tasks.  Replace &lt;LASTNAME&gt; with the name you used when naming your pipeline.  If you are presented with multiple tasks to log into choose the most recent build.</p>
 <div class="listingblock">
 <div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">$ fly -t ci intercept -j pipeline-&lt;LASTNAME&gt;/deploy
+<pre class="highlight"><code class="language-bash" data-lang="bash">$ fly -t c-demo intercept -j pipeline-&lt;LASTNAME&gt;/deploy
 
 1: build #5, step: mvn-package, type: task
 2: build #6, step: mvn-package, type: check
