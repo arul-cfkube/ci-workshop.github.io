@@ -20,5 +20,7 @@ Labs::
  * link:labs/lab06.adoc[_Push app to CF_]
 
 == Where to go from Here??
+ * link:https://tanzu.vmware.com/content/blog/continuous-deployment-from-github-to-pws-via-concourse[ Demo Article on PWS push ]
+ * link:https://concoursetutorial.com/[Concourse Tutorials]
  * link:https://github.com/azwickey-pivotal/volume-demo[Create a pipeline that uses Semantic Versioning (SemVer) and checks pipeline outputs into git as a git release]
  * link:https://github.com/azwickey-pivotal/concourse-deploy-gemfire[Create a pipeline that uses BOSH to deploy software]
