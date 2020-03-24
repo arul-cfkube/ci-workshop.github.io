@@ -11,13 +11,13 @@ Presentation ::
 How labs are built:
 
 Labs::
- * link:labs/pre-reqs.adoc[_Setup Environment Pre-reqs_]
- * link:labs/lab01.adoc[_World’s simplest Concourse Task_]
- * link:labs/lab02.adoc[_1st Job on Concourse Server_]
- * link:labs/lab03.adoc[_Introduce Git Resource_]
- * link:labs/lab04.adoc[_Modularize Tasks and Link Multiple Jobs_]
- * link:labs/lab05.adoc[_SSH into a Concourse task to debug on server_]
- * link:labs/lab06.adoc[_Push app to CF_]
+ * link:labs/pre-reqs.html[_Setup Environment Pre-reqs_]
+ * link:labs/lab01.html[_World’s simplest Concourse Task_]
+ * link:labs/lab02.html[_1st Job on Concourse Server_]
+ * link:labs/lab03.html[_Introduce Git Resource_]
+ * link:labs/lab04.html[_Modularize Tasks and Link Multiple Jobs_]
+ * link:labs/lab05.html[_SSH into a Concourse task to debug on server_]
+ * link:labs/lab06.html[_Push app to CF_]
 
 == Where to go from Here??
  * link:https://tanzu.vmware.com/content/blog/continuous-deployment-from-github-to-pws-via-concourse[ Demo Article on PWS push ]
