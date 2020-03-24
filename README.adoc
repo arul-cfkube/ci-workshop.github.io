@@ -6,7 +6,7 @@ This is 4 hour hands-on session will provide developers and operators with hands
 == Content
 
 Presentation ::
- * link:https://lihsmi.ch/presentation-concourse-devopska-2019-06-26/#/22[ntro to Concourse]
+ * link:https://lihsmi.ch/presentation-concourse-devopska-2019-06-26/#/22[Intro to Concourse]
 
 How labs are built:
 
